@@ -4,6 +4,12 @@
 
 using namespace std;
 
+/*  
+    Source by GeeksForGeeks (https://www.geeksforgeeks.org)
+    Modified For Learn by RK
+    I.D.E : VS2022 
+*/
+
 int main() {
     int N = 100;
     // Program ini akan membuat beberapa urutan acak
